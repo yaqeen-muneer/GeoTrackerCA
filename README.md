@@ -2,11 +2,10 @@
 ## Groundwater - Water Quality Regularity Information in CA USA 
 
 ## Project Overview
-This project investigate Groundwater monitoring in California, USA
-Size = , Columns = 
+This Project Investigate Groundwater monitoring in California, USA
 
 ### Introduction 
-GeoTracker is California’s Water Boards system for tracking sites that affect water quality, especially groundwater. Data from 1966–2025 shows that groundwater pollution risk has stayed in the medium range (40–80%), with little progress despite decades of monitoring. Persistent contamination continues to threaten public health and the environment.
+
 
 ### Problem Statement: 
 
@@ -22,12 +21,19 @@ Between 1966 and 2025, GeoTracker monitoring indicates that California's groundw
 ## Dataset
 Datasource: https://catalog.data.gov/organization/about/ca-gov
 
-CSV File: 
+CSV File: geotracker.csv
 
 ## Analysis
+
+
 #### Findings
-#### Reccomndaions 
+
+
+#### Recommendations 
+
 #### Conclustion 
+
+
 ## How To Run:
 1- Download The CSV file (geotracker.csv)
 
