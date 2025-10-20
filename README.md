@@ -37,7 +37,6 @@ Columns: 46, Rows: 75063
 4- Top 10 Potential Contaminants 
 
 #### Recommendations 
-
 1- Engage local stakeholders and communities
 
 2- Enforce Strict Industrial Regulation 
@@ -46,13 +45,15 @@ Columns: 46, Rows: 75063
 
 
 ## How To Run
-1- Download The CSV file (geotracker.csv)
+1- Download the ZIP file
 
-2- Open Juypter Notebook
+2- Download The CSV file (geotracker.csv)
 
-3- Install required libraries (Pandas, Geopandas, Matplotib, Seaborn, Numpy)
+3- Open Juypter Notebook
 
-4- Run the Code cell by cell
+4- Install required libraries (Pandas, Geopandas, Matplotib, Seaborn, Numpy)
+
+5- Run the Code cell by cell
 
 ## Dependencies
 Python Libraries: Pandas, Geopandas, Matplotib, Seaborn, Numpy
