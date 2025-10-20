@@ -57,5 +57,8 @@ Columns: 46, Rows: 75063
 
 5- Run the Code cell by cell
 
+#### Presentation
+https://docs.google.com/presentation/d/1kPI-40_zDzia6y-mNkCbQYLNwriKPqqXu4mlMsArrtQ/edit?usp=sharing
+
 ## Dependencies
 Python Libraries: Pandas, Geopandas, Matplotib, Seaborn, Numpy
