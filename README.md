@@ -2,16 +2,21 @@
 ## Groundwater - Water Quality Regularity Information in CA USA 
 
 ## Project Overview
+introduction 
 This project investigate ground water monitoring in California, USA
+
 Problem Statement: Between 1966 and 2025, GeoTracker monitoring indicates that California's groundwater pollution risk has remained in the medium zone ( 40-80%), showing minimal progress despite decades of monitioring. Presistent contamination continues to affect local communities public health. 
+
+Approches:
 
 ## Dataset
 Datasource: https://catalog.data.gov/organization/about/ca-gov
 
-CSV File: http://localhost:8888/files/Users/zayyynb/GA/geotracker.csv?_xsrf=2%7C45cf2529%7C4cffe2198d596c5023602c1af4b9d3e5%7C1758546422
-
+CSV File: 
 ## Analysis
-
+Findings
+Reccomindation 
+Conc
 ## How To Run:
 1- Download The CSV file (geotracker.csv)
 
