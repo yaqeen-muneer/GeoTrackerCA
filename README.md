@@ -27,9 +27,21 @@ CSV File: geotracker.csv
 
 
 #### Findings
+1- Groundwater Sites Status (1966-2025)
 
+2- Average CalEnviro Index (1966-2025)
+
+3- Average Pollution Vulnerbaillity Level By County (CA, USA)
+
+4- Top 10 Potential Contaminants 
 
 #### Recommendations 
+
+1-
+
+2-
+
+3-
 
 #### Conclustion 
 
