@@ -3,7 +3,7 @@
 
 ## Project Overview
 This project investigate ground water monitoring in California, USA
-problem statement 
+Problem Statement: Between 1966 and 2025, GeoTracker monitoring indicates that California's groundwater pollution risk has remained in the medium zone ( 40-80%), showing minimal progress despite decades of monitioring. Presistent contamination continues to affect local communities public health. 
 
 ## Dataset
 Datasource: https://catalog.data.gov/organization/about/ca-gov
@@ -21,5 +21,5 @@ CSV File: http://localhost:8888/files/Users/zayyynb/GA/geotracker.csv?_xsrf=2%7C
 
 4- Run the Code cell by cell
 
-# Dependencies
+## Dependencies
 Python Libraries: Pandas, Geopandas, Matplotib, Seaborn, Numpy
