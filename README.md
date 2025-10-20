@@ -4,14 +4,14 @@
 ## Project Overview
 This Project Investigate Groundwater monitoring in California, USA
 
-### Introduction 
+#### Introduction 
 GeoTracker is a data management system developed by the California Water Boards, designed to monitor sites that affect water quality, especially groundwater. The system contains various records for sites requiring cleanup, such as leaking underground storage tanks, Department of Defense sites, as well as irrigated lands, oil and gas production facilities, and land disposal sites, with the goal of protecting and preserving the state’s water resources.
 
-### Problem Statement: 
+#### Problem Statement
 
 Between 1966 and 2025, GeoTracker monitoring indicates that California's groundwater pollution risk has remained in the medium zone ( 40-80%), showing minimal progress despite decades of monitioring. Presistent contamination continues to affect local communities public health. 
 
-### Approches:
+#### Approches
 1- Counties with the highest CalEnviroScreen 4.0 scores
 
 2- Average CalEnviroScreen 4.0 score by site status (1996–2025)
