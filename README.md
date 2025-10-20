@@ -6,6 +6,7 @@ This project investigate Groundwater monitoring in California, USA
 Size = , Columns = 
 
 ### Introduction 
+GeoTracker is California’s Water Boards system for tracking sites that affect water quality, especially groundwater. Data from 1966–2025 shows that groundwater pollution risk has stayed in the medium range (40–80%), with little progress despite decades of monitoring. Persistent contamination continues to threaten public health and the environment.
 
 ### Problem Statement: 
 
@@ -23,7 +24,7 @@ Datasource: https://catalog.data.gov/organization/about/ca-gov
 
 CSV File: 
 
-##Analysis
+## Analysis
 #### Findings
 #### Reccomndaions 
 #### Conclustion 
