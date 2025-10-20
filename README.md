@@ -45,8 +45,6 @@ Columns: 46, Rows: 75063
 
 3- Implement advanced groundwater quality assessments 
 
-#### Conclustion 
-
 
 ## How To Run:
 1- Download The CSV file (geotracker.csv)
