@@ -1,5 +1,5 @@
 
-## Groundwater - Water Quality Regularity Information in CA USA 
+## GeoTracker - Water Quality Regularity Information in CA USA 
 
 ## Project Overview
 This Project Investigate Groundwater monitoring in California, USA
