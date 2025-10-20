@@ -13,8 +13,12 @@ CSV File: http://localhost:8888/files/Users/zayyynb/GA/geotracker.csv?_xsrf=2%7C
 
 ## How To Run:
 1- Download The CSV file (geotracker.csv)
+
 2- Install Juypter Notebook
-3- Install required libraries (Pandas, Geopandas, Matplotib, Seaborn, Numpy):
+
+3- Install required libraries (Pandas, Geopandas, Matplotib, Seaborn, Numpy)
+
 4- Run the Code cell by cell
+
 # Dependencies
 Python Libraries: Pandas, Geopandas, Matplotib, Seaborn, Numpy
