@@ -12,11 +12,10 @@ GeoTracker is a data management system developed by the California Water Boards,
 Between 1966 and 2025, GeoTracker monitoring indicates that California's groundwater pollution risk has remained in the medium zone ( 40-80%), showing minimal progress despite decades of monitioring. Presistent contamination continues to affect local communities public health. 
 
 #### Approches
-1- Counties with the highest CalEnviroScreen 4.0 scores
-
-2- Average CalEnviroScreen 4.0 score by site status (1996–2025)
-
-3- Most common contaminants found in groundwater
+1- Number of sites and their states between 1966-2025
+2- Trends of CalEnviroScreen 4.0 index over the years
+3- Explore counties with the highest CalEnviroScreen 4.0 scores
+4- Most common contaminants found in groundwater
 
 ## Dataset
 Datasource: https://catalog.data.gov/organization/about/ca-gov
