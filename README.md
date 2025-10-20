@@ -29,7 +29,9 @@ Columns: 46, Rows: 75063
 
 #### Findings
 1- Oil & Gas Industry Dominates Cleanup Work
+
 2- Pollution Vulnerability Remains Stable at The Middle Risk Zone
+
 3- Regulatory Success in Closing Sittes on Simple Cases
 
 
