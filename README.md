@@ -13,8 +13,11 @@ Between 1966 and 2025, GeoTracker monitoring indicates that California's groundw
 
 #### Approches
 1- Number of sites and their states between 1966-2025
-2- Trends of Poluution Vulnerability over the years
+
+2- Trends of Pollution Vulnerability over the years
+
 3- Explore counties with the highest CalEnviroScreen 4.0 scores
+
 4- Most common contaminants found in groundwater
 
 ## Dataset
