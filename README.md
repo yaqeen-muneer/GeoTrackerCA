@@ -28,20 +28,17 @@ Columns: 46, Rows: 75063
 
 
 #### Findings
-1- Groundwater Sites Status (1966-2025)
+1- Oil & Gas Industry Dominates Cleanup Work
+2- Pollution Vulnerability Remains Stable at The Middle Risk Zone
+3- Regulatory Success in Closing Sittes on Simple Cases
 
-2- Average CalEnviro Index (1966-2025)
-
-3- Average Pollution Vulnerbaillity Level By County (CA, USA)
-
-4- Top 10 Potential Contaminants 
 
 #### Recommendations 
-1- Engage local stakeholders and communities
+1- Enfoce Strict Industrial Regulations 
 
-2- Enforce Strict Industrial Regulation 
+2- Proritize Complex Site Remediation Instead of Taking More
 
-3- Implement advanced groundwater quality assessments 
+3- Target High-Risk Counties
 
 
 ## How To Run
