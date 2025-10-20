@@ -12,16 +12,18 @@ GeoTracker is a data management system developed by the California Water Boards,
 Between 1966 and 2025, GeoTracker monitoring indicates that California's groundwater pollution risk has remained in the medium zone ( 40-80%), showing minimal progress despite decades of monitioring. Presistent contamination continues to affect local communities public health. 
 
 ### Approches:
-1-
+1- Counties with the highest CalEnviroScreen 4.0 scores
 
-2-
+2- Average CalEnviroScreen 4.0 score by site status (1996–2025)
 
-3-
+3- Most common contaminants found in groundwater
 
 ## Dataset
 Datasource: https://catalog.data.gov/organization/about/ca-gov
 
 CSV File: geotracker.csv
+
+Columns: 46, Rows: 75063
 
 ## Analysis
 
@@ -37,7 +39,7 @@ CSV File: geotracker.csv
 
 #### Recommendations 
 
-1- 
+1- Engage local stakeholders and communities
 
 2- Enforce Strict Industrial Regulation 
 
@@ -49,7 +51,7 @@ CSV File: geotracker.csv
 ## How To Run:
 1- Download The CSV file (geotracker.csv)
 
-2- Install Juypter Notebook
+2- Open Juypter Notebook
 
 3- Install required libraries (Pandas, Geopandas, Matplotib, Seaborn, Numpy)
 
